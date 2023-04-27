@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(22, 20, 20);
+}
+
+a {
+    color: rgb(211, 204, 204);
+}
+
+title {
+    color: blueviolet;
+}
+
+h1 {
+    margin-left: 30px;
+    color: rgb(92, 48, 134);
+}
+
+h3 {
+    word-spacing: 5px;
+    background-color: rgb(63, 59, 63);
+}
+
+p {
+    margin-left: 20px;
+    font-size: 12pt;
+    font-family: arial;
+    color: aliceblue;
+}
+
+h2 {
+    margin-left: 10;
+    color: rgb(92, 48, 134);
+}

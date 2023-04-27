@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(22, 20, 20);
+}
+
+a {
+    color: white;
+}
+
+legend {
+    color: aliceblue;
+    font-size: 15pt;
+    margin-left: 15px;
+}
+
+p {
+    color: aliceblue;
+    font-size: 13pt;
+    margin-left: 15px;
+}
+
+b {
+    color: aliceblue;
+}
+
+#maniçoba { 
+    width: 300px;
+
+}
